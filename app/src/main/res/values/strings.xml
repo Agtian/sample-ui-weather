@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sample UI weather</string>
+    <string name="date">Mon, 12:30 PM. Mostly Sunny</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="precipitation">5% Precipitation</string>
+    <string name="winds">23 km/h Winds</string>
+    <string name="chip_1">8 AM</string>
+    <string name="chip_2">11 AM</string>
+    <string name="chip_3">2 PM</string>
+    <string name="chip_4">5 PM</string>
+    <string name="chip_5">8 PM</string>
+</resources>
